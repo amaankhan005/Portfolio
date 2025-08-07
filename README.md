@@ -5,7 +5,6 @@ A clean and responsive **personal portfolio website** built with **HTML, CSS, an
 ## 📌 Live Preview
 
 👉 [View Live Demo](https://github.com/amaankhan005/Portfolio.git)  
-*(Replace with your GitHub Pages link after deployment)*
 
 ---
 
@@ -43,4 +42,4 @@ A clean and responsive **personal portfolio website** built with **HTML, CSS, an
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/amaankhan005/Portfolio/edit/main/README.md
